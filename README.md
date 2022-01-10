@@ -23,7 +23,7 @@ val = np.linalg.norm(n,2)
 print("{:.2f}".format(val))
 ```
 
-### Sample input and output:
+### input and output:
 
 ### Input:
 ![norm1](./input.jpg)
